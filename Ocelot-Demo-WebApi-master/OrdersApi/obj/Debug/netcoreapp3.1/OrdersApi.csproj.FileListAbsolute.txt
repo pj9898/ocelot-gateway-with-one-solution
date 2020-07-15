@@ -1,0 +1,83 @@
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.exe
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.deps.json
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.runtimeconfig.json
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.runtimeconfig.dev.json
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.dll
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.pdb
+E:\Projects\OcelotDemo\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.csprojAssemblyReference.cache
+E:\Projects\OcelotDemo\OrdersApi\obj\Debug\netcoreapp3.1\staticwebassets\OrdersApi.StaticWebAssets.Manifest.cache
+E:\Projects\OcelotDemo\OrdersApi\obj\Debug\netcoreapp3.1\staticwebassets\OrdersApi.StaticWebAssets.xml
+E:\Projects\OcelotDemo\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.AssemblyInfoInputs.cache
+E:\Projects\OcelotDemo\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.AssemblyInfo.cs
+E:\Projects\OcelotDemo\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.RazorTargetAssemblyInfo.cache
+E:\Projects\OcelotDemo\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.dll
+E:\Projects\OcelotDemo\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.pdb
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\OcelotDemo\OrdersApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\OcelotDemo\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\OcelotDemo\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.csproj.CopyComplete
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.exe
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.deps.json
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.runtimeconfig.json
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.runtimeconfig.dev.json
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.dll
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.pdb
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.csprojAssemblyReference.cache
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\obj\Debug\netcoreapp3.1\staticwebassets\OrdersApi.StaticWebAssets.Manifest.cache
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\obj\Debug\netcoreapp3.1\staticwebassets\OrdersApi.StaticWebAssets.xml
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.AssemblyInfoInputs.cache
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.AssemblyInfo.cs
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.RazorTargetAssemblyInfo.cache
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.csproj.CopyComplete
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.dll
+E:\Projects\Ocelot-Demo-WebApi\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.pdb
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.exe
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.deps.json
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.runtimeconfig.json
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.runtimeconfig.dev.json
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\OrdersApi.pdb
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.csprojAssemblyReference.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.csproj.CoreCompileInputs.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.MvcApplicationPartsAssemblyInfo.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.AssemblyInfoInputs.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.AssemblyInfo.cs
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.RazorTargetAssemblyInfo.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.csproj.CopyComplete
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\staticwebassets\OrdersApi.StaticWebAssets.Manifest.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\staticwebassets\OrdersApi.StaticWebAssets.xml
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.pdb
+D:\.net projets\Ocelot-Demo-WebApi-master\OrdersApi\obj\Debug\netcoreapp3.1\OrdersApi.genruntimeconfig.cache

@@ -1,0 +1,83 @@
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.exe
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.deps.json
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.runtimeconfig.json
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.runtimeconfig.dev.json
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.dll
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.pdb
+E:\Projects\OcelotDemo\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.csprojAssemblyReference.cache
+E:\Projects\OcelotDemo\CatalogApi\obj\Debug\netcoreapp3.1\staticwebassets\CatalogApi.StaticWebAssets.Manifest.cache
+E:\Projects\OcelotDemo\CatalogApi\obj\Debug\netcoreapp3.1\staticwebassets\CatalogApi.StaticWebAssets.xml
+E:\Projects\OcelotDemo\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.AssemblyInfoInputs.cache
+E:\Projects\OcelotDemo\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.AssemblyInfo.cs
+E:\Projects\OcelotDemo\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.RazorTargetAssemblyInfo.cache
+E:\Projects\OcelotDemo\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.dll
+E:\Projects\OcelotDemo\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.pdb
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\OcelotDemo\CatalogApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\OcelotDemo\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\OcelotDemo\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.csproj.CopyComplete
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.exe
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.deps.json
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.runtimeconfig.json
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.runtimeconfig.dev.json
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.dll
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.pdb
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.csprojAssemblyReference.cache
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\obj\Debug\netcoreapp3.1\staticwebassets\CatalogApi.StaticWebAssets.Manifest.cache
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\obj\Debug\netcoreapp3.1\staticwebassets\CatalogApi.StaticWebAssets.xml
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.AssemblyInfoInputs.cache
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.AssemblyInfo.cs
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.RazorTargetAssemblyInfo.cache
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.csproj.CopyComplete
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.dll
+E:\Projects\Ocelot-Demo-WebApi\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.pdb
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.exe
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.deps.json
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.runtimeconfig.json
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.runtimeconfig.dev.json
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\CatalogApi.pdb
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.csprojAssemblyReference.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.csproj.CoreCompileInputs.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.MvcApplicationPartsAssemblyInfo.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.AssemblyInfoInputs.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.AssemblyInfo.cs
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.RazorTargetAssemblyInfo.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.csproj.CopyComplete
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\staticwebassets\CatalogApi.StaticWebAssets.Manifest.cache
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\staticwebassets\CatalogApi.StaticWebAssets.xml
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.dll
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.pdb
+D:\.net projets\Ocelot-Demo-WebApi-master\CatalogApi\obj\Debug\netcoreapp3.1\CatalogApi.genruntimeconfig.cache
